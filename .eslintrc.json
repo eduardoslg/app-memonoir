@@ -1,0 +1,7 @@
+{
+    "extends": "@siakit/eslint-config/react",
+    "globals": {
+        "NodeJS":true,
+        "React":true
+    }
+}
